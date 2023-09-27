@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.outercontainer{
+    background-color: brown;
+    height: 99.9vh;
+    width: 99.9vw;
+    overflow: hidden;
+}
+.containers{
+    margin:100px auto;
+    padding:20px;
+    height: 450px;
+    width: 400px;
+    background-color: aliceblue;
+    border: 2px solid rgb(179, 178, 178);
+    opacity: 0.75;
+}
+.login{
+    margin:40px;
+}
+.labels{
+ font-size: 20px ;
+}
+.inputs{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 20px;
+    margin:20px;
+}
+.logbutton{
+    height: 40px;
+    padding: 10px;
+    width: 300px;
+    margin-top: 50px;
+    font-size: large;
+    background-color: rgba(175, 16, 22, 0.896);
+}
